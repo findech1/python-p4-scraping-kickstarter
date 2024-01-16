@@ -30,7 +30,7 @@ def create_project_dict():
     return projects
 
 # Uncomment the line below if you want to start debugging with ipdb
-# ipdb.set_trace()
+ipdb.set_trace()
 
 # Call the function and print the result
 result = create_project_dict()
